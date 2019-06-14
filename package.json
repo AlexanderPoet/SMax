@@ -1,0 +1,24 @@
+{
+  "name": "smax",
+  "version": "1.0.0",
+  "description": "Predictable email2post",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderPoet/SMax.git"
+  },
+  "author": "Po",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderPoet/SMax/issues"
+  },
+  "homepage": "https://github.com/AlexanderPoet/SMax#readme",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "googleapis": "^39.2.0"
+  }
+}
